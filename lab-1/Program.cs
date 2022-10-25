@@ -55,7 +55,7 @@ namespace lab_1
                 {
                     arr[i]++;
                 }
-                else if (min > arr[i])
+                else if (min > arr[i]&&min>10)
                 {
                     if (min >= 10)
                     {
